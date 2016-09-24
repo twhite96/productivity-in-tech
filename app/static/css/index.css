@@ -144,7 +144,7 @@ h3 {
         opacity: 1;
         transition: 0.4s;
       }
-@media all and (max-device-width: 767px) {
+@media all and (min-device-width: 6in) {
   #podcast-info {text-align: center;}
         #podcast-info img {
           height: 4em;}
